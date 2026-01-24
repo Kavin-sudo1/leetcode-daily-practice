@@ -1,2 +1,2 @@
-# {{Name}}'s Leetcode Tracker
-![](https://leetcard.jacoblin.cool/{{your_username}})
+# Kavin's Leetcode Tracker
+![](https://leetcard.jacoblin.cool/Kavin-20062HwZKJ)
